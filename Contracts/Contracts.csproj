@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+    
+    <PropertyGroup>
+        <ReservationsSchemaPath>..\ReservationService.AvroSchemas</ReservationsSchemaPath>
+    </PropertyGroup>
+    
+    <ItemGroup>
+      <PackageReference Include="Apache.Avro" Version="1.12.0" />
+    </ItemGroup>
+
+    <Target Name="GenerateSchemas" BeforeTargets="Build">
+        <Exec Command='avrogen -s $(ReservationsSchemaPath)\reservation.created.avsc . --namespace "contracts.reservations:Contracts" --skip-directories' />
+    </Target>
+</Project>

@@ -1,0 +1,13 @@
+D:\Repositories\EXRFamichCorp\ReservationService\Contracts\bin\Debug\net9.0\Contracts.deps.json
+D:\Repositories\EXRFamichCorp\ReservationService\Contracts\bin\Debug\net9.0\Contracts.dll
+D:\Repositories\EXRFamichCorp\ReservationService\Contracts\bin\Debug\net9.0\Contracts.pdb
+D:\Repositories\EXRFamichCorp\ReservationService\Contracts\obj\Debug\net9.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\EXRFamichCorp\ReservationService\Contracts\obj\Debug\net9.0\Contracts.AssemblyInfoInputs.cache
+D:\Repositories\EXRFamichCorp\ReservationService\Contracts\obj\Debug\net9.0\Contracts.AssemblyInfo.cs
+D:\Repositories\EXRFamichCorp\ReservationService\Contracts\obj\Debug\net9.0\Contracts.csproj.CoreCompileInputs.cache
+D:\Repositories\EXRFamichCorp\ReservationService\Contracts\obj\Debug\net9.0\Contracts.sourcelink.json
+D:\Repositories\EXRFamichCorp\ReservationService\Contracts\obj\Debug\net9.0\Contracts.dll
+D:\Repositories\EXRFamichCorp\ReservationService\Contracts\obj\Debug\net9.0\refint\Contracts.dll
+D:\Repositories\EXRFamichCorp\ReservationService\Contracts\obj\Debug\net9.0\Contracts.pdb
+D:\Repositories\EXRFamichCorp\ReservationService\Contracts\obj\Debug\net9.0\ref\Contracts.dll
+D:\Repositories\EXRFamichCorp\ReservationService\Contracts\obj\Debug\net9.0\Contracts.csproj.AssemblyReference.cache
